@@ -6,9 +6,9 @@ I build **scalable backend systems**, **high-performance APIs**, and **cloud-opt
 I’m currently taking on **remote freelance projects** in:
 
 ### 🚀 What I Do
-- **Backend API Development (Node.js / TypeScript / Express / Fastify)**
+- **Backend API Development (Node.js)**
 - **Microservices Architecture & Distributed Systems**
-- **AWS Migration & Cloud Cost Optimization (ECS, Fargate, Lambda, Terraform)**
+- **AWS Migration & Cloud Cost Optimization (ECS, Lambda, Terraform)**
 - **Architecture Consulting & System Design Reviews**
 - **Database Optimization (PostgreSQL, MySQL, MongoDB, Elasticsearch)**
 
@@ -42,7 +42,6 @@ Complete high-level architecture with diagrams, data flow, caching strategy, sca
 ---
 
 ## 💼 Experience Snapshot
-- Architected a **CRM backend handling 260k+ transactions/min**
 - Built IAM system for **1.2M+ accounts**
 - Reduced AWS infra costs by **80%** through ECS migration
 - Designed Elasticsearch infra powering **1.2M+ documents**
