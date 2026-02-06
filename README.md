@@ -24,23 +24,6 @@ I’m currently taking on **remote freelance projects** in:
 
 ---
 
-## 📌 Featured Work (Portfolio)
-Here are some curated projects that represent the kind of work I deliver:
-
-### 🟦 1. Microservice Demo (Node.js + TypeScript)  
-A simple production-ready API demonstrating clean architecture, auth patterns, and scalable structure.  
-➡️ _Coming soon_
-
-### 🟩 2. AWS Migration / Cloud Optimization Sample  
-A walkthrough of architecture before ➝ after, ECS/Fargate migration, cost-saving strategies, and Terraform sample.  
-➡️ _Coming soon_
-
-### 🟧 3. Architecture Consulting — E-Commerce System Design  
-Complete high-level architecture with diagrams, data flow, caching strategy, scaling patterns, and security layers.  
-➡️ _Coming soon_
-
----
-
 ## 💼 Experience Snapshot
 - Built IAM system for **1.2M+ accounts**
 - Reduced AWS infra costs by **80%** through ECS migration
